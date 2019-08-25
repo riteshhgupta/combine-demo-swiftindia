@@ -2,9 +2,8 @@
 
 It's a demo project explaining `Combine` for my [SwiftIndia's talk](https://swiftindia.in) `Combine! All the things`. The presentation can be found [here](https://speakerdeck.com/riteshhh/combine-all-the-things).
 
-## Useful links
-WIP
-
+## Useful resources
+Checkout [Awesome Combine](https://github.com/riteshhgupta/awesome-combine), it's a repository I made to collect all the useful resources at one place :)
 
 ## Licence
 
